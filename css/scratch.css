@@ -1,0 +1,34 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(204, 231, 240);
+    color: rgb(12, 95, 12);
+}
+
+.emma {
+    color: black;
+}
+ol{
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: "100%";
+    bottom:0;
+    background-color: aliceblue;
+    height: 40px;
+}
+.div2 {
+    color: rgb(12, 95, 12);
+    font-weight: bold;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: "100%";
+    top:0;
+    background-color: aliceblue;
+    height: 40px;
+}
